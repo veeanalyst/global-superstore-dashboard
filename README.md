@@ -48,4 +48,4 @@ Microsoft Power BI (Power Query, DAX, interactive dashboards), Microsoft Word (w
 
 ## Author
 
-Veronica Gika — AnalystLab Africa Internship, Week 2
+*Veronica Gika* — AnalystLab Africa Internship, Week 2
